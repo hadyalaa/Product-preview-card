@@ -33,14 +33,19 @@
     background-color: darkgreen;
     border-color: darkgreen;
     color: white;
+    font-weight: bold;
     border-radius: 10%;
     margin: auto;
+    height: 40px;
+    width: 150px;
+    align-items: center;
 }
 .details button:hover{
     cursor: pointer;
 }
 .details button img{
   margin-right: 10px;
+  margin-left: 20px;
     background-color: darkgreen;
 
 }
